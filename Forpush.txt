@@ -1,0 +1,8 @@
+git remote add origin https://github.com/mudasiranberlin/Javascript.git
+git branch -M main
+
+git branch -d <name of branch to delete>
+git branch //show branch
+git push -u origin main
+git push -f origin main
+git push -f origin main
